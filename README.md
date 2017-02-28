@@ -1,6 +1,9 @@
 # Intro
 This script try to download files listed on a website with an automatic listing directory features like apache.
 
+# Requirements
+* PycURL
+
 # Example
 
 In directory "src" :
